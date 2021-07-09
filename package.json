@@ -1,0 +1,17 @@
+{
+   "name": "apitest",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "start": "node index"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "axios": "^0.21.1",
+      "dotenv": "^10.0.0",
+      "moment": "^2.29.1",
+      "unirest": "^0.6.0"
+   }
+}
