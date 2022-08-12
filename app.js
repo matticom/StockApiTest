@@ -1,3 +1,3 @@
-// const { getCrytoCurrency } = require("./requestAlpha");
+const { getCrytoCurrency } = require('./requestAlpha');
 
-// getCrytoCurrency();
+getCrytoCurrency();
